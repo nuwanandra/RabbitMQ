@@ -1,0 +1,17 @@
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\RabbitMQ\RabbitReceiver2\bin\Debug\net8.0\RabbitReceiver2.exe
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\RabbitMQ\RabbitReceiver2\bin\Debug\net8.0\RabbitReceiver2.deps.json
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\RabbitMQ\RabbitReceiver2\bin\Debug\net8.0\RabbitReceiver2.runtimeconfig.json
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\RabbitMQ\RabbitReceiver2\bin\Debug\net8.0\RabbitReceiver2.dll
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\RabbitMQ\RabbitReceiver2\bin\Debug\net8.0\RabbitReceiver2.pdb
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\RabbitMQ\RabbitReceiver2\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\RabbitMQ\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.csproj.AssemblyReference.cache
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\RabbitMQ\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\RabbitMQ\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.AssemblyInfoInputs.cache
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\RabbitMQ\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.AssemblyInfo.cs
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\RabbitMQ\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.csproj.CoreCompileInputs.cache
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\RabbitMQ\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.csproj.CopyComplete
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\RabbitMQ\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.dll
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\RabbitMQ\RabbitReceiver2\obj\Debug\net8.0\refint\RabbitReceiver2.dll
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\RabbitMQ\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.pdb
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\RabbitMQ\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.genruntimeconfig.cache
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\RabbitMQ\RabbitReceiver2\obj\Debug\net8.0\ref\RabbitReceiver2.dll
